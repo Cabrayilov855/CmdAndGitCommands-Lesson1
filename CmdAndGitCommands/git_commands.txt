@@ -1,0 +1,13 @@
+workspace --> Staging area --> local repository -- > remote repository
+
+git init - yeni repository yaradır və ya mövcud repositoryə proyekti push etmək onu üçün işə salır
+git remote add origin https://github.com/Cabrayilov855/CmdAndGitCommands-Lesson1.git - Local repository adresi
+git add . - workspacedən staging areaya keçir
+git commit -m "commit message" - təsdiqləyirik
+git push - localdan remote repositoryə keçir
+git clone - remote repositorydəki proyekti clonelayır 
+git pull - remotedəki proyekti workspaceyə çəkir
+git branch - yeni branch yaradır.Birdən çox developer eyni proyektin üstündə işləməsi üçün
+git checkout - branchlar arasında keçid etmək üçün
+git reset - staging areadan geri çəkmək(pushdan sonra belə işləyir)
+git status - məulmat xarakterlidir

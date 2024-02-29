@@ -1,0 +1,9 @@
+cd - folderlər arasında keçid etmək üçün
+mkdir - qovluq yaradır
+ls - olduğumuuz qovluq haqqında məlumat verir
+pwd - olduğumuz qovluğu göstərir
+rm-dir - boş qovluğu silir
+touch - fayl yaradır
+cat - faylın içindəki məlumatı terminalda göstərir
+clear - terminalı silir
+ls -la - gizli faylları göstərir
